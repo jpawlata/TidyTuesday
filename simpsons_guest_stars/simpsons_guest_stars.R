@@ -41,9 +41,9 @@
   bar_color = '#FED41D'
   text_color = '#595959'
   
-  # Image - TODO !!! - change path
+  # Image
   # (img: https://imgbin.com/png/ZwdSQDYa/bart-simpson-homer-simpson-marge-simpson-lisa-simpson-maggie-simpson-png)
-  image <- readPNG('/home/justyna/Projects/Rscripts/tidytuesday/simpsons_guest_stars/image/simpson_tr.png')
+  image <- readPNG('/image/simpson_tr.png')
   
   
   plot <- ggplot() + 
