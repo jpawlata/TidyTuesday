@@ -1,6 +1,6 @@
 # TidyTuesday
 
-My code and plots for the #TidyTuesday challenge.
+My code and plots for the [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) challenge.
 
 ### Week 35/2019
 ##### Simpsons Guest Stars
