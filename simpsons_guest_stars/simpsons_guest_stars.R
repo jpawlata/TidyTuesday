@@ -6,7 +6,7 @@
   library(ggimage)
   
   # Import data
-  simpsons <- simpsons <- readr::read_delim("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-08-27/simpsons-guests.csv", delim = "|", quote = "")
+  simpsons <- readr::read_delim("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-08-27/simpsons-guests.csv", delim = "|", quote = "")
   
   # Remove NA and rows with 'Movie':
   simpsons <- na.omit(simpsons)
@@ -63,7 +63,7 @@
               size=3.5, 
               color = text_color, 
               angle = 90, 
-              family = 'Verdana') +
+              family = font_family) +
     geom_point(data=data.frame(x = 15.5, y = 53), 
                mapping = aes(x = x,y = y), 
                color = text_color, 
@@ -75,7 +75,7 @@
               hjust = 0, 
               fontface = 4, 
               size=4, 
-              family = 'Verdana', 
+              family = font_family, 
               label = 'Top guest star per season \n(mark shows the number of appearances)') + 
     annotation_custom(rasterGrob(image, interpolate=TRUE), 
                       xmin = 18, 
