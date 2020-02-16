@@ -2,6 +2,9 @@
 
 My code and plots for the [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) challenge.
 
+### Week 7/2020
+![./2020/2020-02-11/hotel_bookings.jpeg](https://github.com/jpawlata/TidyTuesday/blob/master/2020/2020-02-11/hotel_bookings.jpeg)
+
 ### Week 38/2019
 ![./2019/2019-09-17/national_park_visits_plot.jpeg](https://github.com/jpawlata/TidyTuesday/blob/master/2019/2019-09-17/national_park_visits_plot.jpeg)
 
