@@ -25,7 +25,7 @@ font_family = 'Verdana'
 text_color = '#595959'
 
   plot_usmap(data = states_mmr, values = "mmr", color = "light grey", labels = TRUE, label_color = "light grey") +
-    scale_fill_continuous(low = "#D4B28D", high = "#9E3E3C", name = "School\'s MMR vaccination rate: ") + 
+    scale_fill_continuous(low = "#D4B28D", high = "#9E3E3C", name = "MMR vaccination rate: ") + 
     theme_void() + 
     theme(
       plot.title = element_text(hjust = 0, face = 'bold', size = 22, family = font_family, color = text_color),
