@@ -2,6 +2,10 @@
 
 My code and plots for the [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) challenge.
 
+### Week 9/2020
+
+![./2020/2020-02-25/vaccination_rate.jpeg](https://github.com/jpawlata/TidyTuesday/blob/master/2020/2020-02-25/vaccination_rate.jpeg)
+
 ### Week 8/2020
 
 ![./2020/2020-02-18/food_consumption_CO2_emission.jpeg](https://github.com/jpawlata/TidyTuesday/blob/master/2020/2020-02-18/food_consumption_CO2_emission.jpeg)
