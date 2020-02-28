@@ -2,10 +2,14 @@ library(tidyverse)
 library(usmap)
 
 
-
+# Get the data
 measles <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-02-25/measles.csv')
 
-df <- measles %>%
+# Check duplicates
+no_duplicated <- sum(duplicated(measles)) #706
+
+df <- measles %>% 
+  unique() %>%
   select(c(state, mmr)) %>%
   filter(!mmr == -1)
 
