@@ -2,6 +2,10 @@
 
 My code and plots for the [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) challenge.
 
+### Week 13/2020
+
+![./2020/2020-03-24/tbi.jpeg](https://github.com/jpawlata/TidyTuesday/blob/master/2020/2020-03-24/tbi.jpeg)
+
 ### Week 12/2020
 
 ![./2020/2020-03-17/the_office.gif](https://github.com/jpawlata/TidyTuesday/blob/master/2020/2020-03-17/the_office.gif)
