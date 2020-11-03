@@ -34,5 +34,5 @@ My code and plots for the [#TidyTuesday](https://github.com/rfordatascience/tidy
 ![./2019/2019-09-17/national_park_visits_plot.jpeg](https://github.com/jpawlata/TidyTuesday/blob/master/2019/2019-09-17/national_park_visits_plot.jpeg)
 
 ### Week 35/2019
-![./simpsons_guest_stars/simpsons_plot.jpg](https://github.com/jpawlata/TidyTuesday/blob/master/simpsons_guest_stars/simpsons_plot.jpg)
+![./2019/2019-08-27/simpsons_guest_stars/simpsons_plot.jpg](https://github.com/jpawlata/TidyTuesday/blob/master/2019/2019-08-27/simpsons_guest_stars/simpsons_plot.jpg)
 

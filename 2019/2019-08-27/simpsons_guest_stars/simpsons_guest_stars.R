@@ -98,7 +98,8 @@
       axis.title.y = element_text(family = font_family, 
                                   color = text_color),
       axis.text.x = element_text(angle = 45, 
-                                 family = font_family)
+                                 family = font_family),
+      legend.position = "none"
     ) +
     labs(
       title = 'Simpsons Guest Stars',
