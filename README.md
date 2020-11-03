@@ -2,6 +2,10 @@
 
 My code and plots for the [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) challenge.
 
+### Week 45/2020
+
+![./2020/2020-11-03/ikea.png](https://github.com/jpawlata/TidyTuesday/blob/master/2020/2020-11-03/ikea.png)
+
 ### Week 19/2020
 
 ![./2020/2020-05-05/animal_crossing.jpeg](https://github.com/jpawlata/TidyTuesday/blob/master/2020/2020-05-05/animal_crossing.jpeg)
