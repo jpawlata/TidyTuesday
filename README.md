@@ -4,7 +4,7 @@ My code and plots for the [#TidyTuesday](https://github.com/rfordatascience/tidy
 
 ### Week 46/2020
 
-![./2020/2020-11-10/phones.png](https://github.com/jpawlata/TidyTuesday/blob/master/2020/2020-11-03/phones.png)
+![./2020/2020-11-10/phones.png](https://github.com/jpawlata/TidyTuesday/blob/master/2020/2020-11-10/phones.png)
 
 ### Week 45/2020
 
